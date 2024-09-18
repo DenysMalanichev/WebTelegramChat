@@ -1,0 +1,5 @@
+D:\KPI 4 course\web\lab3\bot\obj\Debug\net7.0\lab3.csproj.AssemblyReference.cache
+D:\KPI 4 course\web\lab3\bot\obj\Debug\net7.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI 4 course\web\lab3\bot\obj\Debug\net7.0\lab3.AssemblyInfoInputs.cache
+D:\KPI 4 course\web\lab3\bot\obj\Debug\net7.0\lab3.AssemblyInfo.cs
+D:\KPI 4 course\web\lab3\bot\obj\Debug\net7.0\lab3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,3 @@
+# Ignore appsettings.json to avoid exposing sensitive configurations
+appsettings.json
+appsettings.Development.json
